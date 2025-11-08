@@ -1,0 +1,5 @@
+# This is here to make sure I don't accidentally push the fmod files
+fmod/*.cs
+fmod/*.uid
+fmod/libs/*.dll
+fmod/libs/*.so
