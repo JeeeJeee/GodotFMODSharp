@@ -2,6 +2,11 @@
 #### A Godot addon that integrates FMOD; written in C#
 _The editor UI was taken from the [fmod-gdextension by Utopia-Rise](https://github.com/utopia-rise/fmod-gdextension). If you are using a gdscript project I would recommend that project over this_
 
+## Version
+
+---
+Tested with Fmod 2.03.09 and Godot 4.4
+
 ---
 ## Installation
 
