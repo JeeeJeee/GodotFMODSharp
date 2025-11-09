@@ -1,4 +1,4 @@
-﻿# GodotFMODSharp
+# GodotFMODSharp
 #### A Godot addon that integrates FMOD; written in C#
 _The editor UI was taken from the [fmod-gdextension by Utopia-Rise](https://github.com/utopia-rise/fmod-gdextension). If you are using a gdscript project I would recommend that project over this_
 
@@ -12,6 +12,7 @@ Tested with Fmod 2.03.09 and Godot 4.4
 
 ---
 1. Download the plugin from here and drop it into your projects `addon` folder
+   Make sure to name the addon folder "GodotFMODSharp"
 2. Download the necessary FMOD libraries from the official website: https://www.fmod.com/ _(I can't redistribute them here)_
    3. Copy the fmod `.cs` files into `GodotFMODSharp\fmod\`
    4. Copy the fmod `.dll` files into `GodotFMODSharp\fmod\libs`
